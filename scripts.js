@@ -3,7 +3,7 @@ const videos = [
     {
       id: 1,
       title: "Sample video",
-      url:"https://www.w3schools.com/html/movie.mp4",
+      url:"https://xnxx.health/video-rpx5p44/sex_with_stepsister",
       description: "This is a sample video.",
       likes: 0,
       dislikes: 0
